@@ -1,0 +1,8 @@
+app:
+  name: "belajar viper"
+  author: "Roni Purwanto"
+  version: "1.0.0"
+database:
+  host: "localhost"
+  post: 3306
+  show_sql: true
